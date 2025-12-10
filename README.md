@@ -2,7 +2,6 @@
 
 Este api permite una administración básica de usuarios que se almacenan en memoria usando la tecnológia de Python y Flask
  
-## subtitulo
 
 ### Metodos soportados
 

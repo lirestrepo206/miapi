@@ -1,0 +1,118 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:09:20] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:09:20] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:09:59] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:__main__:OPERATION OK: Método GET users ejecutado correctamente
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:11:27] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:16:14] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
+WARNING:__main__:AUTH NOT SUCCESS: Bearer token incorrecto
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:17:03] "[31m[1mPOST /v1/users HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 512-490-287
+WARNING:__main__:AUTH NOT SUCCESS: Bearer token incorrecto
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:26:33] "[31m[1mPOST /v1/users HTTP/1.1[0m" 401 -
+INFO:__main__:INSERT SUCCESS: Juanita, 33
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:26:51] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
+WARNING:__main__:BODY INCOMPLETO: Faltan argumentos en el cuerpo del request
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:27:08] "[31m[1mPOST /v1/users HTTP/1.1[0m" 400 -
+WARNING:__main__:VALUE ERROR: Juanita o Juanita son inválidos
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:28:07] "[31m[1mPOST /v1/users HTTP/1.1[0m" 400 -
+INFO:__main__:INSERT SUCCESS: Juanita, 15
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:28:35] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
